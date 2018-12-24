@@ -1,22 +1,5 @@
 # readme
 
-![Awesome](.gitbook/assets/logo.svg)
-
- [My open source work is supported by the community](https://www.patreon.com/sindresorhus)
-
- Special thanks to:  
-  
- [![wtgtybhertgeghgtwtg](https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg)](https://github.com/wtgtybhertgeghgtwtg)  
-  
- [![Botpress](https://sindresorhus.com/assets/thanks/botpress-logo.svg)](https://github.com/botpress/botpress)  
-  
-
-
- [What is an awesome list?]()    [Contribution guide]()    [Creating a list]()    [Twitter](https://twitter.com/awesome__re)    [Stickers & t-shirts](https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo)
-
- Just type [`awesome.re`](https://awesome.re) to go here. Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).   
-
-
 ## Contents
 
 * [Platforms](undefined.md#platforms)
