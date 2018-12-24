@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [readme](undefined.md)
+* [Git Book - Lyes](README.md)
+* [Awesome Memo](undefined.md)
 
